@@ -1,5 +1,5 @@
 # libft_42
-small libft library.
+Small libft library.
 This projects seeks to build on the concepts learned during the c piscine 
 (bootcamp), to code a library of useful functions that will be allowed to be 
 reused in future projects. Because we don't have access to those highly 
